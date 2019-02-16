@@ -59,7 +59,7 @@ class MainLoop():
         print ('      #################################################       ')
         print ('\n\t  A Layer 7 DoS Tool / Original Coder:  marcos69 \n')
         print ('\t Re-Coded & New Features by MARCOS69 #SYST3M CR4SH3RS \n\n')
-        print ('\t Features: Normal Attack & Cloudflare Bypass / #ShoutOutToInforge \n\n')
+        print ('\t Features: Normal Attack & Cloudflare Bypass / #DESTRUCTION \n\n')
     
     def check_url(self, url):
         if url[0]+url[1]+url[2]+url[3] == "www.":
