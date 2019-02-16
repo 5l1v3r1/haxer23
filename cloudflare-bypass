@@ -55,10 +55,10 @@ class MainLoop():
             color = ['a', 'b', 'c', 'd', 'e', 'f']
             os.system('color %s' % (color[random.randint(0, 5)]))
         print ('\n           ###################################            \n')
-        print ('        01010o.....::B4CKSELF DoS V6.0::.....o01010\n         ')
+        print ('        01010o.....::SQUAD DoS V6.0::.....o01010\n         ')
         print ('      #################################################       ')
-        print ('\n\t  A Layer 7 DoS Tool / Original Coderz: B4ckdoor & Xordas \n')
-        print ('\t Re-Coded & New Features by M4STER T3MPER #AnonMafiaCyberFamily \n\n')
+        print ('\n\t  A Layer 7 DoS Tool / Original Coder:  marcos69 \n')
+        print ('\t Re-Coded & New Features by MARCOS69 #SYST3M CR4SH3RS \n\n')
         print ('\t Features: Normal Attack & Cloudflare Bypass / #ShoutOutToInforge \n\n')
     
     def check_url(self, url):
